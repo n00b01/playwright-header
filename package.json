@@ -1,0 +1,13 @@
+{
+  "name": "standalone-header-menu-link-validator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node header-menu-link-validator.js"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.55.0",
+    "xlsx": "^0.18.5"
+  }
+}
